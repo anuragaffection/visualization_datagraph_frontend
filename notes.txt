@@ -1,0 +1,26 @@
+
+Resources Link 
+-- https://observablehq.com/@d3/bar-chart/2?intent=fork
+-- https://observablehq.com/@d3/area-chart/2?intent=fork
+-- https://observablehq.com/@d3/line-chart/2?intent=fork
+-- https://observablehq.com/@d3/donut-chart/2?intent=fork
+-- https://observablehq.com/@d3/box-plot/2?intent=fork
+
+
+Installation Link 
+-- https://tailwindcss.com/docs/guides/vite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
